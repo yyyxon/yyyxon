@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit%20Face.png" alt="Rabbit Face" width="25" height="25" />
   
   <h3>Hi, I'm SeungYeon</h3>
-  
+  <br>
   <br>
     </div>
     <div align= "center">
