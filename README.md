@@ -7,6 +7,8 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit%20Face.png" alt="Rabbit Face" width="25" height="25" />
   
   <h3>Hi, I'm SeungYeon</h3>
+            <br>
+          ﹏﹏﹏﹏﹏﹏﹏
   <br>
   <br>
     </div>
@@ -23,11 +25,9 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
           <br/></div>
-          <br><br>
-          ﹏﹏﹏﹏﹏﹏﹏
-          <br><br>
     </div>
     </div>
+    <br>
     <div align= "center">
     <h3> Contact me 🍀<h3>
     <div align= "center"> 
