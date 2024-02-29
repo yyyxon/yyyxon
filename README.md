@@ -2,7 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=d2e9fe&height=120&text=&animation=&fontColor=000000&fontSize=70" />
 
   <H3></H3>
+  
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit%20Face.png" alt="Rabbit Face" width="25" height="25" />
   
   <h3>Hi, I'm SeungYeon</h3>
   
