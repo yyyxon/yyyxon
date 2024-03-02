@@ -42,9 +42,11 @@
       <a href=mailto:yxon.dev@gmail.com> 
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yxon.dev@gmail.com"> 
       </a>
+        <!--
       <a href=https://yyyxon.notion.site/7e6bdc75c8d14af9b6fa58498d407a44?pvs=4> 
         <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://yyyxon.notion.site/7e6bdc75c8d14af9b6fa58498d407a44?pvs=4"> 
       </a>
+        -->
     </div>  <br> 
 <div align= "center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=d2e9fe&height=120&section=footer&text=&animation=&fontColor=000000&fontSize=70" />
